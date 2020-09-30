@@ -1,0 +1,18 @@
+{
+    "name": "user/parser",
+    "authors": [
+        {
+            "name": "Alexey-654",
+            "email": "vianosenko@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/func.php"
+        ]
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.1",
+        "imangazaliev/didom": "^1.16"
+    }
+}
